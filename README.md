@@ -1,2 +1,2 @@
 # Project-Euler-Solutions
-Some Solutions for Project Euler
+Some Solutions for Project Euler in C++
